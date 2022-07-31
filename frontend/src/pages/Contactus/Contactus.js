@@ -11,7 +11,7 @@ const Contactus = () => {
     const [body, setbody] = useState('')
 
     const handlesubmit = () =>{
-        window.open(`mailto:abdessamadbouthjoul@gmail.com?subject=Sample&body=${body}`)
+        window.open(`mailto:022adityabharadwaj@gmail.com?subject=Sample&body=${body}`)
     }
     return (
 
@@ -51,7 +51,7 @@ const Contactus = () => {
                     <div className="adressCtn">
 
                         <h3> Address</h3>
-                        <p>Coza Store Center 8th floor, 379 Hudson St, New York, NY 10018 US</p>
+                        <p>Hostel J Nit Jamshedpur</p>
                     </div>
                 </div>
                     <div className="box">
@@ -59,7 +59,7 @@ const Contactus = () => {
                     <div className="adressCtn">
 
                         <h3>Lets Talk</h3>
-                        <p className="infoCtn">0657964665</p>
+                        <p className="infoCtn">9065339430</p>
                     </div>
                 </div>
                 <div className="box">
@@ -67,7 +67,7 @@ const Contactus = () => {
                     <div className="adressCtn">
 
                         <h3>Sale Support</h3>
-                        <p className="infoCtn">Store@gmail.com</p>
+                        <p className="infoCtn">022adityabharadwaj@gmail.com</p>
                     </div>
                 </div>
             </div>
